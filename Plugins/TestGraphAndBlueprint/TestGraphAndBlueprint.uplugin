@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TestGraphAndBlueprint",
+	"Description": "BlueprintAndGraph",
+	"Category": "Other",
+	"CreatedBy": "RenZhai",
+	"CreatedByURL": "https://www.zhihu.com/people/ren-zhai-60/activities",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TestGraphAndBlueprint",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
