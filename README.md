@@ -16,7 +16,7 @@
 
 ## 文档
 
-浏览[蓝图界面框架文档](https://www.yuque.com/shaozi-3mfdw/rqgtq3/mybuf24yoq8fs7pb)获取详细的教程、特性解释和 API 参考，帮助您开始使用界面框架。
+浏览[蓝图界面框架文档]([https://www.yuque.com/shaozi-3mfdw/rqgtq3/mybuf24yoq8fs7pb](https://www.yuque.com/shaozi-3mfdw/vg35e0/td4yk47k162wziim)https://www.yuque.com/shaozi-3mfdw/vg35e0/td4yk47k162wziim)获取详细的教程、特性解释和 API 参考，帮助您开始使用界面框架。
 
 ## 使用环境
 
